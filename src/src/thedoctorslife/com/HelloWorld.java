@@ -4,14 +4,14 @@
 // package
 package src.thedoctorslife.com;
 
-// Import Hello and Cheese
+// Allows  me to pull stuffs from Stuff
 public class HelloWorld extends Stuff {
 
-    /**
-     * @param args
-     */
-    public static void main(String[] args)  {
-    	printHello();
-    	printCheese();
-    }
+	public static void main(String[] args)  {
+    	if (100 - 90 <= 2) {
+    		Hello();
+    		Cheese();
+    	} else
+			end();
+	}
 }
