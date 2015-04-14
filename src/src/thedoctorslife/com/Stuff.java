@@ -7,14 +7,14 @@ package src.thedoctorslife.com;
 
 
 // Define the class
-public class Stuff extends HelloWorld {
+public class Stuff {
 
 		// Define printHello and execute
-		private static void printHello() {
+		public static void printHello() {
 			System.out.println("Hello World!");
 			}
 		// Define printCheese and execute.
-		private static void printCheese() {
+		public static void printCheese() {
 			System.out.println("I like cheese!");
 			}
 }

@@ -5,7 +5,7 @@
 package src.thedoctorslife.com;
 
 // Import Hello and Cheese
-public class HelloWorld  {
+public class HelloWorld extends Stuff {
 
     /**
      * @param args
