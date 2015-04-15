@@ -10,7 +10,7 @@ public class Stuff {
 
 		// Define printHello and execute
 		public static void Hello() {
-			System.out.println("Hello World,");
+			System.out.print("Hello World, ");
 			}
 		// Define printCheese and execute.
 		public static void Cheese() {
@@ -18,7 +18,7 @@ public class Stuff {
 			}
 		// Make a funny
 		public static void end() {
-			System.out.println("Nope, didn't work");
+			System.out.println("The end.");
 			System.exit(0);
 		}
 }
