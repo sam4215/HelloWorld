@@ -9,8 +9,8 @@ import com.thedoctorslife.hello.Stuff;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-    		Stuff.Hello();
-    		Stuff.Cheese();
-    		Stuff.End();
+    		Stuff.hello();
+    		Stuff.cheese();
+    		Stuff.end();
 	}
 }
