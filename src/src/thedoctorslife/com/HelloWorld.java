@@ -4,14 +4,12 @@
 // package
 package src.thedoctorslife.com;
 
+import src.thedoctorslife.com.Stuff;
 // Allows  me to pull stuffs from Stuff
-public class HelloWorld extends Stuff {
+public class HelloWorld {
 
 	public static void main(String[] args)  {
-    	if (100 - 90 <= 2) {
-    		Hello();
-    		Cheese();
-    	} else
-			end();
+    		Stuff.Hello();
+    		Stuff.Cheese();
 	}
 }
