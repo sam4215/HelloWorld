@@ -4,13 +4,13 @@
 // package
 package com.thedoctorslife.hello;
 
-import src.thedoctorslife.com.Stuff;
-/
+import com.thedoctorslife.hello.Stuff;
+
 public class HelloWorld {
 
 	public static void main(String[] args) {
     		Stuff.Hello();
     		Stuff.Cheese();
-    		Random.chance();
+    		Stuff.End();
 	}
 }

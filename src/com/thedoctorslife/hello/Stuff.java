@@ -17,12 +17,12 @@ public class Stuff {
 			System.out.println("I like cheese!");
 			}
 		// Make a funny
-		public static void end() {
+		public static void End() {
 			System.out.println("The end.");
 			System.exit(0);
 		}
 		// Make a real funny
-		public static void end2() {
+		public static void End2() {
 			System.out.print("The end....");
 			System.out.println("Or is it?");
 		}
